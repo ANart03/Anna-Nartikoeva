@@ -42,6 +42,3 @@ Only a few employees receive salary above 100k.
 
 Overall, the company has a rather fair payroll range for its employees and it seems to be fair across the titles too.
 
-Author:Anna Nartikoeva
-
-email:anna.nartikoeva@yahoo.com
